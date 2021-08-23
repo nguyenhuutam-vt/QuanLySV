@@ -1,0 +1,11 @@
+login=LoginController
+loadTag=LoadTagController
+manage=ManageController
+update=UpdateController
+search=SearchController
+create=CreateUserController
+logOut=LogOutController
+navigation=NavigationController
+addPromotion=AddPromotionController
+deletePromotion=DeletePromotionController
+saveChange=SaveChangeController
